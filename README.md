@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @raiyan1437
 - 👀 I’m interested in Artificial Intelligence And Machine Learning
 - 🌱 I’m currently learning MLOps
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (ID - raiyan1437@gmail.com) or (contact +91-9972373887)
 
 <!---
